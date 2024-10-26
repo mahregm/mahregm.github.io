@@ -1,3 +1,7 @@
+/** <!-- I Mahesh Regmi, 000905377 declares that this assignment is soley done by me without the help of others. I have not taken help from others to complete this assignment.-->
+ */
+
+
 document.addEventListener('DOMContentLoaded', function() {
     document.querySelectorAll('a[href^="#"]').forEach(anchor => {
         anchor.addEventListener('click', function (e) {
